@@ -29,4 +29,4 @@ This repository, is for demonstrating how various libraries can be used for buil
     - Using high level API by implementing the Flax.linen.nn and jax.jit decorators
   
 ## Video Link:
- 
+https://youtu.be/C9n1j7XkXB4
